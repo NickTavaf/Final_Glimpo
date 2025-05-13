@@ -470,3 +470,202 @@ p {
         text-align: center;
     }
 }
+@media only screen and (max-width: 390px) {
+    body {
+        /* Create a container for absolute positioning */
+        position: relative;
+        min-height: 7000px; /* Approximate height to contain all elements */
+    }
+    
+    h1 {
+        font-size: 28px;
+        top: 15px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .project-video video {
+        top: 100px;
+        left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    
+    h2 {
+        top: 350px;
+        left: 0;
+        margin-left: 0;
+        padding: 20px;
+        text-indent: 20px;
+        font-size: 16px;
+        line-height: 24px;
+        width: 85%;
+    }
+    
+    h3 {
+        top: 600px;
+        left: 0;
+        margin-left: 0;
+        padding: 20px;
+        text-indent: 20px;
+        font-size: 16px;
+        line-height: 24px;
+        width: 85%;
+    }
+    
+    h4 {
+        top: 1060px;
+        left: 0;
+        margin-left: 0;
+        padding: 20px;
+        text-indent: 20px;
+        font-size: 16px;
+        line-height: 24px;
+        width: 85%;
+    }
+    
+    h5 {
+        top: 1550px;
+        left: 20px;
+        font-size: 32px;
+    }
+    
+    #Ins1-img {
+        top: 1640px;
+        left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    
+    #Ins2-img {
+        top: 1900px;
+        left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    
+    #Ins3-img {
+        top: 2200px;
+        left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    
+    #Ins4-img {
+        top: 2580px;
+        left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    
+    h6 {
+        top: 3010px;
+        left: 20px;
+        font-size: 32px;
+    }
+    
+    #Unity1-img {
+        top: 3150px;
+        left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    
+    #Unity2-img {
+        top: 3390px;
+        left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    
+    h7 {
+        top: 3620px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 32px;
+    }
+    
+    h8 {
+        top: 3690px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    #Ras-img {
+               top: 3750px;
+        left: 10%;
+        width: 80%;
+        height: auto;
+    }
+    
+    h9 {
+        top: 4150px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    #Bread-img {
+        top: 4250px;
+        left: 25%;
+        width: 50%;
+        height: auto;
+    }
+    
+    h10 {
+        top: 4500px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    #Ard-img {
+        top: 4600px;
+        left: 10%;
+        width: 80%;
+        height: auto;
+    }
+    
+    h11 {
+        top: 5000px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    #Mon-img {
+        top: 5100px;
+        left: 10%;
+        width: 80%;
+        height: auto;
+    }
+    
+    h12 {
+        top: 5500px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    #LED-img {
+        top: 5600px;
+        left: 15%;
+        width: 70%;
+        height: auto;
+    }
+    
+    p {
+        top: 6000px;
+        left: 5%;
+        width: 90%;
+        text-align: center;
+    }
+}
